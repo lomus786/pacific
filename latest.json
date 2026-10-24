@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "file": "PACIFIC-Setup-1.1.1.exe",
-  "sha256": "E97A491B114BD9F668281AB71C84C6EE961D1BA0801443F6B2200AF296A6658D",
+  "version": "1.1.2",
+  "file": "PACIFIC-Setup-1.1.2.exe",
+  "sha256": "b27684b44353855bc05f5123020f8dea3afb33b7d2e41ac6bd0b3d5995fd8020",
   "notes": "PACIFIC branding, News window, license gate, About info, WhatsApp/Telegram links"
 }
